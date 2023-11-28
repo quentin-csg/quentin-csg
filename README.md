@@ -1,16 +1,19 @@
-### Hi there 👋
+### <p style="text-align: center;">Hello 👋</p>
 
-<!--
-**quentin-csg/quentin-csg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="cat.gif" alt="animated" />
+</p>
 
-Here are some ideas to get you started:
+## 👀 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a French Computer Science student who's into cybersecurity and networking.
+
+🛠 Languages and tools
+
+![Python](python.png)
+![Assembly](assembly.png)
+![Bash](bash.png)
+![MySQL](mysql.png)
+![Linux](linux.png)
+![Trello](trello.jpg) 
+![Figma](figma.png)
